@@ -119,7 +119,7 @@ a{
 *------------------------------------------------------------------*/
 .header{
 	position: fixed;
-	z-index: 102;
+	z-index: 102!important;
 	width: 100%;
 	left: 0;
 	top: 0;

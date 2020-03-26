@@ -119,7 +119,7 @@ a{
 *------------------------------------------------------------------*/
 .header{
 	position: fixed;
-	z-index: 99;
+	z-index: 102;
 	width: 100%;
 	left: 0;
 	top: 0;
@@ -2981,5 +2981,8 @@ textarea.frm-input{
 	}
 	.main-content{
 		margin-bottom: 430px
+	}
+	.header{
+		z-index: 101!important;
 	}
 }
